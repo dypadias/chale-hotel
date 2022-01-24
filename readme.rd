@@ -1,1 +1,1 @@
-<<img src="/imagens/2022-01-23.png" alt="">
+<img src="/imagens/2022-01-23.png" alt="">
